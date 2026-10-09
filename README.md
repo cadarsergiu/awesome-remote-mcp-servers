@@ -861,8 +861,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search, compare and buy tea, coffee and hot chocolate from a UK shop; sign in to track orders.
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
-    🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
-  - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
+  🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+- [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
